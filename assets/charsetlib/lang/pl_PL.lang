@@ -1,0 +1,86 @@
+# CharsetAudio
+item.charset.tape.name=Kaseta
+item.charset.tapedrive.name=Magnetofon
+item.charset.tapereel.name=Szpula z taśmą magnetyczną
+item.charset.tapeitem.name=Taśma magnetyczna
+
+item.charset.tape.iron.name=Kaseta żelazna
+item.charset.tape.gold.name=Kaseta złota
+item.charset.tape.diamond.name=Kaseta diamentowa
+item.charset.tape.emerald.name=Kaseta szmaragdowa
+item.charset.tape.quartz.name=Kaseta kwarcowa
+item.charset.tape.dark_iron.name=Kaseta ciemnożelazna
+item.charset.tape.ruby.name=Kaseta rubinowa
+item.charset.tape.sapphire.name=Kaseta szafirowa
+
+item.charset.tape.gold.tip=Błyszcząca
+item.charset.tape.diamond.tip=Audiofilska
+item.charset.tape.dark_iron.tip=Tajemnicza
+item.charset.tape.quartz.tip=Precyzyjna
+item.charset.tape.emerald.tip=Najlepsza na rynku
+
+tile.charset.ironNoteBlock.name=Żelazny blok dźwiękowy
+
+tooltip.charset.tape.none=Brak kasety
+tooltip.charset.tape.unnamed=Kaseta bez nazwy
+
+# CharsetDrama
+item.charset.dramaInABottle.name=Drama w butelce
+
+# CharsetGates
+part.charset.gate.nand=Bramka NAND
+part.charset.gate.nand.i=Bramka AND
+part.charset.gate.nor=Bramka NOR
+part.charset.gate.nor.i=Bramka OR
+part.charset.gate.xor=Bramka XOR
+part.charset.gate.xor.i=Bramka XNOR
+part.charset.gate.buffer=Odwrócona bramka buforu
+part.charset.gate.buffer.i=Bramka buforu
+part.charset.gate.pulse_former=Generator impulsu
+part.charset.gate.multiplexer=Multiplekser
+part.charset.gate.rs_latch=Zatrzask typu RS
+
+# CharsetLib
+charset.color.black=czarny
+charset.color.red=czerwony
+charset.color.green=zielony
+charset.color.brown=brązowy
+charset.color.blue=niebieski
+charset.color.purple=fioletowy
+charset.color.cyan=błękitny
+charset.color.silver=jasnoszary
+charset.color.gray=szary
+charset.color.pink=różowy
+charset.color.lime=limonkowy
+charset.color.yellow=żółty
+charset.color.lightBlue=jasnoniebiezki
+charset.color.magenta=karmazynowy
+charset.color.orange=pomarańczowy
+charset.color.white=biały
+
+itemGroup.charset=Projekt Charset
+
+# CharsetPipes
+item.charset.pipe.name=Rura
+tile.charset.shifter.name=Przerzutnik
+
+# CharsetStorage
+key.charset.backpackOpen=Open Backpack
+item.charset.key.name=Key
+item.charset.lock.name=Lock
+item.charset.masterKey.name=Master Key
+tile.charset.backpack.name=Backpack
+
+# CharsetTweaks
+item.charset.graphite.name=Graphite
+item.charset.shard.colored.name=Kawałek szkła (%s)
+item.charset.shard.name=Kawałek szkła
+
+# CharsetWires
+tile.charset.wire.name=Kabel proszkowy
+tile.charset.wire.insulated.name=Kabel izolowany %s
+tile.charset.wire.bundled.name=Kabel łączony
+tile.charset.wire.freestanding.name=%s wolnostojący
+
+# CharsetWrench
+item.charset.wrench.name=Klucz
