@@ -65,14 +65,14 @@ item.charset.pipe.name=Rura
 tile.charset.shifter.name=Przerzutnik
 
 # CharsetStorage
-key.charset.backpackOpen=Open Backpack
-item.charset.key.name=Key
-item.charset.lock.name=Lock
-item.charset.masterKey.name=Master Key
-tile.charset.backpack.name=Backpack
+key.charset.backpackOpen=Otwórz plecak
+item.charset.key.name=Kluczyk
+item.charset.lock.name=Kłódka
+item.charset.masterKey.name=Klucz Administratora
+tile.charset.backpack.name=Plecak
 
 # CharsetTweaks
-item.charset.graphite.name=Graphite
+item.charset.graphite.name=Grafit
 item.charset.shard.colored.name=Kawałek szkła (%s)
 item.charset.shard.name=Kawałek szkła
 
