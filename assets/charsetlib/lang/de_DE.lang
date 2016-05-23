@@ -1,0 +1,86 @@
+# CharsetAudio
+item.charset.tape.name=Kasettenband
+item.charset.tapedrive.name=Kassettenspieler
+item.charset.tapereel.name=Bandspur
+item.charset.tapeitem.name=Magnetband
+
+item.charset.tape.iron.name=Eisernes Kasettenband
+item.charset.tape.gold.name=Goldenes Kasettenband
+item.charset.tape.diamond.name=Diamantenes Kasettenband
+item.charset.tape.emerald.name=Smaragdkasettenband
+item.charset.tape.quartz.name=Quarzkasettenband
+item.charset.tape.dark_iron.name=Dunkeleisenkassettenband
+item.charset.tape.ruby.name=Rubinkassettenband
+item.charset.tape.sapphire.name=Saphirkassettenband
+
+item.charset.tape.gold.tip=Schick
+item.charset.tape.diamond.tip=Audiophil
+item.charset.tape.dark_iron.tip=Es starrt dich an.
+item.charset.tape.quartz.tip=Präzise
+item.charset.tape.emerald.tip=Grün
+
+tile.charset.ironNoteBlock.name=Eiserner Notenblock
+
+tooltip.charset.tape.none=Kein Band
+tooltip.charset.tape.unnamed=Unbenanntes Band
+
+# CharsetDrama
+item.charset.dramaInABottle.name=Ein Fläschchen Drama
+
+# CharsetGates
+part.charset.gate.nand=NAND-Schaltung
+part.charset.gate.nand.i=AND-Schaltung
+part.charset.gate.nor=NOR-Schaltung
+part.charset.gate.nor.i=OR-Schaltung
+part.charset.gate.xor=XOR-Schaltung
+part.charset.gate.xor.i=XNOR-Schaltung
+part.charset.gate.buffer=Invertierte Buffer-Schaltung
+part.charset.gate.buffer.i=Buffer-Schaltung
+part.charset.gate.pulse_former=Puls-Former
+part.charset.gate.multiplexer=Multiplexer
+part.charset.gate.rs_latch=RS-Flipflop
+
+# CharsetLib
+charset.color.black=Schwarz
+charset.color.red=Rot
+charset.color.green=Grün
+charset.color.brown=Braun
+charset.color.blue=Blau
+charset.color.purple=Violett
+charset.color.cyan=Türkis
+charset.color.silver=Hellgrau
+charset.color.gray=Grau
+charset.color.pink=Pink
+charset.color.lime=Hellgrün
+charset.color.yellow=Gelb
+charset.color.lightBlue=Hellblau
+charset.color.magenta=Magentafarben
+charset.color.orange=Orangefarben
+charset.color.white=Weiß
+
+itemGroup.charset=The Charset Project
+
+# CharsetPipes
+item.charset.pipe.name=Rohr
+tile.charset.shifter.name=Shifter
+
+# CharsetStorage
+key.charset.backpackOpen=Rucksack öffnen
+item.charset.key.name=Schlüssel
+item.charset.lock.name=Schloss
+item.charset.masterKey.name=Master-Schlüssel
+tile.charset.backpack.name=Rucksack
+
+# CharsetTweaks
+item.charset.graphite.name=Graphit
+item.charset.shard.colored.name=%se Glasscherbe
+item.charset.shard.name=Glasscherbe
+
+# CharsetWires
+tile.charset.wire.name=Redstone-Kabel
+tile.charset.wire.insulated.name=%ses Isoliertes Kabel
+tile.charset.wire.bundled.name=Kabelbündel
+tile.charset.wire.freestanding.name=Frei Stehendes %s
+
+# CharsetWrench
+item.charset.wrench.name=Schraubenschlüssel
