@@ -1,0 +1,90 @@
+# Slovak language file for 'Charset' by leSamo
+
+# CharsetAudio
+item.charset.tape.name=Kazeta
+item.charset.tapedrive.name=Magnetofón
+item.charset.tapereel.name=Cievka magnetickej pásky
+item.charset.tapeitem.name=Magnetická páska
+
+item.charset.tape.iron.name=Železná kazeta
+item.charset.tape.gold.name=Zlatá kazeta
+item.charset.tape.diamond.name=Diamantová kazeta
+item.charset.tape.emerald.name=Smaragdová kazeta
+item.charset.tape.quartz.name=Kremenná kazeta
+item.charset.tape.dark_iron.name=Kazeta z temného železa
+item.charset.tape.ruby.name=Rubínová kazeta
+item.charset.tape.sapphire.name=Zafírová kazeta
+
+item.charset.tape.gold.tip=Lesklá
+item.charset.tape.diamond.tip=Hudbofilná
+item.charset.tape.dark_iron.tip=Tajomná
+item.charset.tape.quartz.tip=Precízna
+item.charset.tape.emerald.tip=Najlepšia na trhu
+
+tile.charset.ironNoteBlock.name=Železná hudobná kocka
+
+tooltip.charset.tape.none=Chýba kazeta
+tooltip.charset.tape.unnamed=Kazeta bez názvu
+
+# CharsetDrama
+item.charset.dramaInABottle.name=Dráma vo fľaši
+## Bottled drama sound cooler IMO
+
+# CharsetGates
+part.charset.gate.nand=NAND brána
+part.charset.gate.nand.i=AND brána
+part.charset.gate.nor=NOR brána
+part.charset.gate.nor.i=OR brána
+part.charset.gate.xor=XOR brána
+part.charset.gate.xor.i=XNOR brána
+part.charset.gate.buffer=Opačná zadržiavacia brána
+part.charset.gate.buffer.i=Zadržiavacia brána
+part.charset.gate.pulse_former=Pulzar
+part.charset.gate.multiplexer=Multiplexor
+part.charset.gate.rs_latch=RS západka
+
+# CharsetLib
+charset.color.black=čierny
+charset.color.red=červený
+charset.color.green=zelený
+charset.color.brown=hnedý
+charset.color.blue=modrý
+charset.color.purple=fialový
+charset.color.cyan=tyrkysový
+charset.color.silver=svetlosivý
+charset.color.gray=sivý
+charset.color.pink=ružový
+charset.color.lime=svetlozelený
+charset.color.yellow=žltý
+charset.color.lightBlue=svetlomodrý
+charset.color.magenta=purpurový
+charset.color.orange=oranžový
+charset.color.white=biely
+
+itemGroup.charset=Projekt Charset
+
+# CharsetPipes
+item.charset.pipe.name=Rúra
+tile.charset.shifter.name=Smerovač
+
+# CharsetStorage
+key.charset.backpackOpen=Otvoriť batoh
+item.charset.key.name=Kľúč
+item.charset.lock.name=Kládka
+item.charset.masterKey.name=Univerzálny kľúč
+## Maybe "Uniwersalny klucz" for Polish?
+tile.charset.backpack.name=Batoh
+
+# CharsetTweaks
+item.charset.graphite.name=Grafit
+item.charset.shard.colored.name=Črepina skla (%s)
+item.charset.shard.name=Črepina skla
+
+# CharsetWires
+tile.charset.wire.name=Práškový kábel
+tile.charset.wire.insulated.name=Izolovaný kábel %s
+tile.charset.wire.bundled.name=Zviazaný kábel
+tile.charset.wire.freestanding.name=%s uvoľnený
+
+# CharsetWrench
+item.charset.wrench.name=Francúzsky kľúč
