@@ -28,7 +28,6 @@ tooltip.charset.tape.unnamed=Kazeta bez názvu
 
 # CharsetDrama
 item.charset.dramaInABottle.name=Dráma vo fľaši
-## Bottled drama sound cooler IMO
 
 # CharsetGates
 part.charset.gate.nand=NAND brána
@@ -72,7 +71,6 @@ key.charset.backpackOpen=Otvoriť batoh
 item.charset.key.name=Kľúč
 item.charset.lock.name=Kládka
 item.charset.masterKey.name=Univerzálny kľúč
-## Maybe "Uniwersalny klucz" for Polish?
 tile.charset.backpack.name=Batoh
 
 # CharsetTweaks

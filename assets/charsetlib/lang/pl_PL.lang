@@ -68,7 +68,7 @@ tile.charset.shifter.name=Przerzutnik
 key.charset.backpackOpen=Otwórz plecak
 item.charset.key.name=Kluczyk
 item.charset.lock.name=Kłódka
-item.charset.masterKey.name=Klucz Administratora
+item.charset.masterKey.name=Uniwersalny kluczyk
 tile.charset.backpack.name=Plecak
 
 # CharsetTweaks
