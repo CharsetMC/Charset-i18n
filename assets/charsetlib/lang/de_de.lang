@@ -19,13 +19,21 @@ item.charset.tape.dark_iron.tip=Es starrt dich an.
 item.charset.tape.quartz.tip=Präzise
 item.charset.tape.emerald.tip=Grün
 
+tile.charset.audioCable.name=Tonkabel
 tile.charset.ironNoteBlock.name=Eiserner Notenblock
 
 tooltip.charset.tape.none=Kein Band
 tooltip.charset.tape.unnamed=Unbenanntes Band
 
+# CharsetDecoration
+item.charset.poster.name=Poster
+
 # CharsetDrama
 item.charset.dramaInABottle.name=Ein Fläschchen Drama
+
+# CharsetFarming
+item.charset.clayBucket.filled.name=Toneimer mit %s
+item.charset.clayBucket.empty.name=Toneimer
 
 # CharsetGates
 part.charset.gate.nand=NAND-Schaltung
@@ -49,6 +57,7 @@ charset.color.blue=Blau
 charset.color.purple=Violett
 charset.color.cyan=Türkis
 charset.color.silver=Hellgrau
+charset.color.lightGray=Hellgrau
 charset.color.gray=Grau
 charset.color.pink=Pink
 charset.color.lime=Hellgrün
@@ -57,19 +66,39 @@ charset.color.lightBlue=Hellblau
 charset.color.magenta=Magentafarben
 charset.color.orange=Orangefarben
 charset.color.white=Weiß
+charset.point.toofar=So weit weg kannst du nicht zeigen!
 
 itemGroup.charset=The Charset Project
 
 # CharsetPipes
 item.charset.pipe.name=Rohr
+tile.charset.pipe.name=Rohr
 tile.charset.shifter.name=Shifter
 
 # CharsetStorage
 key.charset.backpackOpen=Rucksack öffnen
+item.charset.barrelCart.name=Fasswaggon
+item.charset.barrelCart.known.name=Fasswaggon: %s
 item.charset.key.name=Schlüssel
 item.charset.lock.name=Schloss
 item.charset.masterKey.name=Master-Schlüssel
+notice.charset.backpack.chestplate=Rüstungs-Slot ist besetzt!
+notice.charset.barrel.empty=Leer
+notice.charset.barrel.full=Voll mit
+notice.charset.barrel.infinite=Unendlich
+notice.charset.barrel.no=Nein.
 tile.charset.backpack.name=Rucksack
+tile.charset.barrel.name=Fass
+tile.charset.barrel.format=%2$s-Fass
+tile.charset.barrel.format2=%1$ses %2$s-Fass
+tile.charset.barrel.SILKY.name=Samten
+tile.charset.barrel.SILKY.silkhint=Nutze eine Behutsamkeits-Axt
+tile.charset.barrel.HOPPING.name=Trichternd
+tile.charset.barrel.LARGER.name=Größer
+tile.charset.barrel.STICKY.name=Klebrig
+tile.charset.barrel.CREATIVE.name=Kreativ
+tile.charset.crate.name=Kiste
+tile.charset.crate.format=Kiste aus %s
 
 # CharsetTweaks
 item.charset.graphite.name=Graphit
