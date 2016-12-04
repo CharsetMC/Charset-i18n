@@ -27,6 +27,8 @@ tooltip.charset.tape.unnamed=未命名磁带
 
 # CharsetDecoration
 item.charset.poster.name=海报
+tile.charset.scaffold.name=脚手架
+tile.charset.scaffold.format=%s脚手架
 
 # CharsetDrama
 item.charset.dramaInABottle.name=瓶中闹剧
@@ -34,21 +36,6 @@ item.charset.dramaInABottle.name=瓶中闹剧
 # CharsetFarming
 item.charset.clayBucket.filled.name=装%s的粘土桶
 item.charset.clayBucket.empty.name=粘土桶
-
-# CharsetGates - Notice that name for buffer gate and invert buffer gate may be switched. But that doesnt matter, as asie finally decided to remove them. Still, one can always use SCM to replicate them on the fly
-part.charset.gate.nand=与非门(NAND)
-part.charset.gate.nand.i=与门(AND)
-part.charset.gate.nor=或非门(NOR)
-part.charset.gate.nor.i=或门(OR)
-part.charset.gate.xor=异或门(XOR)
-part.charset.gate.xor.i=同或门(XNOR)
-part.charset.gate.buffer=反相缓冲门
-part.charset.gate.buffer.i=缓冲门
-part.charset.gate.pulse_former=脉冲发生器
-part.charset.gate.multiplexer=数据选择器
-part.charset.gate.rs_latch=RS锁存器
-
-item.charset.screwdriver.name=螺丝刀
 
 # CharsetLib
 charset.color.black=黑色
@@ -59,6 +46,7 @@ charset.color.blue=蓝色
 charset.color.purple=紫色
 charset.color.cyan=青色
 charset.color.silver=淡灰色
+charset.color.lightGray=淡灰色
 charset.color.gray=灰色
 charset.color.pink=粉色
 charset.color.lime=黄绿色
@@ -73,10 +61,11 @@ charset.point.toofar=你够不到那么远的地方！
 
 # CharsetPipes
 item.charset.pipe.name=管道
-tile.charset.shifter.name=移位器
+tile.charset.pipe.name=管道
+tile.charset.shifter.name=转运器
 
 # CharsetStorage
-key.charset.backpackOpen=开放式背包
+key.charset.backpackOpen=打开背包
 item.charset.barrelCart.name=储物桶车
 item.charset.barrelCart.known.name=%s车
 item.charset.key.name=钥匙
@@ -97,19 +86,11 @@ tile.charset.barrel.HOPPING.name=漏式
 tile.charset.barrel.LARGER.name=大型
 tile.charset.barrel.STICKY.name=粘性
 tile.charset.barrel.CREATIVE.name=创造专用
-tile.charset.crate.name=板条箱
-tile.charset.crate.format=%s板条箱
 
 # CharsetTweaks
 item.charset.graphite.name=石墨
 item.charset.shard.colored.name=%s玻璃碎片
 item.charset.shard.name=玻璃碎片
-
-# CharsetWires
-tile.charset.wire.name=红石线缆
-tile.charset.wire.insulated.suffix=%s绝缘线缆
-tile.charset.wire.bundled.name=捆绑线缆
-tile.charset.wire.freestanding.prefix=免支撑%s
 
 # CharsetWrench
 item.charset.wrench.name=扳手
