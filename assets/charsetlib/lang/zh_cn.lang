@@ -25,6 +25,9 @@ tile.charset.ironNoteBlock.name=铁制音符盒
 tooltip.charset.tape.none=没有磁带
 tooltip.charset.tape.unnamed=未命名磁带 
 
+# CharsetCrafting
+item.charset.pocket_crafting_table.name=口袋工作台
+
 # CharsetDecoration
 item.charset.poster.name=海报
 tile.charset.scaffold.name=脚手架
