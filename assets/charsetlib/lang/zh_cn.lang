@@ -20,10 +20,14 @@ item.charset.tape.quartz.tip=精密
 item.charset.tape.emerald.tip=交易的首选
 
 tile.charset.audioCable.name=音频线缆
+tile.charset.audioCable.freestanding.name=免支撑音频线缆
 tile.charset.ironNoteBlock.name=铁制音符盒
 
 tooltip.charset.tape.none=没有磁带
 tooltip.charset.tape.unnamed=未命名磁带 
+
+# CharsetCarts
+tile.charset.rail_cross.name=十字铁轨
 
 # CharsetCrafting
 item.charset.pocket_crafting_table.name=口袋工作台
@@ -32,6 +36,8 @@ item.charset.pocket_crafting_table.name=口袋工作台
 item.charset.poster.name=海报
 tile.charset.scaffold.name=脚手架
 tile.charset.scaffold.format=%s脚手架
+tile.charset.shelf.name=储物架
+tile.charset.shelf.format=%s储物架
 
 # CharsetDrama
 item.charset.dramaInABottle.name=瓶中闹剧
@@ -97,3 +103,5 @@ item.charset.shard.name=玻璃碎片
 
 # CharsetWrench
 item.charset.wrench.name=扳手
+
+tile.charset.tank.name=储罐
