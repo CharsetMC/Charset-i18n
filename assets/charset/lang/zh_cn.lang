@@ -66,18 +66,23 @@ charset.color.orange=橙色
 charset.color.white=白色
 charset.point.toofar=你够不到那么远的地方！
 
+gui.charset.crafting.name=合成
+
 #itemGroup.charset=Project Charset
 
 # CharsetPipes
 item.charset.pipe.name=管道
+tile.charset.pipe.format=%s管道
 tile.charset.pipe.name=管道
 tile.charset.shifter.name=转运器
 
 # CharsetStorage
+gui.charset.keyring.name=钥匙环
 key.charset.backpackOpen=打开背包
 item.charset.barrelCart.name=储物桶车
 item.charset.barrelCart.known.name=%s车
 item.charset.key.name=钥匙
+item.charset.keyring.name=钥匙环
 item.charset.lock.name=锁
 item.charset.masterKey.name=超级钥匙
 notice.charset.backpack.chestplate=胸甲格已被占用！
