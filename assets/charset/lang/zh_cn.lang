@@ -1,3 +1,23 @@
+# Config
+config.charset.title=Charset 选项
+config.charset.profile.name=档案
+config.charset.categories.name=模块分类开关
+config.charset.overrides.name=单个模块开关
+
+config.charset.tweak.blockCarrying.general.name=一般设定
+
+config.charset.storage.locks.general.name=一般设定
+
+config.charset.storage.barrels.features.name=特性开关
+config.charset.storage.barrels.general.name=一般设定
+config.charset.storage.barrels.render.name=客户端与渲染
+
+config.charset.lib.expert.name=高级设定
+config.charset.lib.functionalityregistry.name=功能注册
+config.charset.lib.general.name=一般设定
+
+item.charset.icon.name=a
+
 # CharsetAudio
 item.charset.tape.name=带
 item.charset.tapedrive.name=磁带机
@@ -24,7 +44,7 @@ tile.charset.audioCable.freestanding.name=免支撑音频线缆
 tile.charset.ironNoteBlock.name=铁制音符盒
 
 tooltip.charset.tape.none=没有磁带
-tooltip.charset.tape.unnamed=未命名磁带 
+tooltip.charset.tape.unnamed=未命名磁带
 
 # CharsetCarts
 tile.charset.rail_cross.name=十字铁轨
@@ -45,6 +65,14 @@ item.charset.dramaInABottle.name=瓶中闹剧
 # CharsetFarming
 item.charset.clayBucket.filled.name=装%s的粘土桶
 item.charset.clayBucket.empty.name=粘土桶
+
+# CharsetLaser
+tile.charset.crystal.name=%s 晶体
+tile.charset.light_jar.name=光瓿
+tile.charset.light_jar.tip=%s 光
+tile.charset.prism.name=棱镜
+tile.charset.reflector.name=%s 反射镜
+tile.charset.splitter.name=%s 分光镜
 
 # CharsetLib
 charset.color.black=黑色
@@ -107,6 +135,9 @@ item.charset.shard.colored.name=%s玻璃碎片
 item.charset.shard.name=玻璃碎片
 
 # CharsetWrench
+item.charset.chisel.name=凿子
+item.charset.chisel.large.name=大凿子
 item.charset.wrench.name=扳手
 
 tile.charset.tank.name=储罐
+tile.charset.tank.colored.name=%s储罐
