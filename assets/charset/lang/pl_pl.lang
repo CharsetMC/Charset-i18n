@@ -1,49 +1,27 @@
-# CharsetAudio
-item.charset.tape.name=Kaseta
-item.charset.tapedrive.name=Magnetofon
-item.charset.tapereel.name=Szpula z taśmą magnetyczną
-item.charset.tapeitem.name=Taśma magnetyczna
+# config
 
-item.charset.tape.iron.name=Kaseta żelazna
-item.charset.tape.gold.name=Kaseta złota
-item.charset.tape.diamond.name=Kaseta diamentowa
-item.charset.tape.emerald.name=Kaseta szmaragdowa
-item.charset.tape.quartz.name=Kaseta kwarcowa
-item.charset.tape.dark_iron.name=Kaseta ciemnożelazna
-item.charset.tape.ruby.name=Kaseta rubinowa
-item.charset.tape.sapphire.name=Kaseta szafirowa
+config.charset.title=Konfiguracja Charseta
+config.charset.profile.name=Profil
+config.charset.categories.name=Przełącz kategorie modułów
+config.charset.overrides.name=Przełącz moduły
 
-item.charset.tape.gold.tip=Błyszcząca
-item.charset.tape.diamond.tip=Audiofilska
-item.charset.tape.dark_iron.tip=Tajemnicza
-item.charset.tape.quartz.tip=Precyzyjna
-item.charset.tape.emerald.tip=Najlepsza na rynku
+# audio.storage
+
+item.charset.quartz_disc.blank.name=Czysta płyta kwarcowa
+item.charset.quartz_disc.name=Płyta kwarcowa
+
+tile.charset.record_player.name=Gramofon
+
+tooltip.charset.disc.none=Brak płyty
+tooltip.charset.disc.unnamed=Płyta bez nazwy
+
+# audio.transport
 
 tile.charset.audioCable.name=Kabel dźwiękowy
 tile.charset.audioCable.freestanding.name=Kabel dźwiękowy wolnostojący
-tile.charset.ironNoteBlock.name=Żelazny blok dźwiękowy
 
-tooltip.charset.tape.none=Brak kasety
-tooltip.charset.tape.unnamed=Kaseta bez nazwy
+# lib
 
-# CharsetCarts
-tile.charset.rail_cross.name=Tor skrzyżowany
-
-# CharsetCrafting
-item.charset.pocket_crafting_table.name=Podręczny stół rzemieślniczy
-
-# CharsetDecoration
-item.charset.poster.name=Plakat
-tile.charset.scaffold.name=Rusztowanie
-tile.charset.scaffold.format=Rusztowanie (%s)
-tile.charset.shelf.name=Półka
-tile.charset.shelf.format=Półka (%s)
-
-# CharsetDrama
-item.charset.dramaInABottle.name=Drama w butelce
-
-
-# CharsetLib
 charset.color.black=czarny
 charset.color.red=czerwony
 charset.color.green=zielony
@@ -61,47 +39,145 @@ charset.color.magenta=karmazynowy
 charset.color.orange=pomarańczowy
 charset.color.white=biały
 
+charset.point.toofar=Nie możesz wskazać tak daleko!
+
+config.charset.lib.expert.name=Ustawienia zaawansowane
+config.charset.lib.functionalityregistry.name=Rejestr funkcjonalności
+config.charset.lib.general.name=Ogólne
+
+gui.charset.crafting.name=Crafting
+
 itemGroup.charset=Projekt Charset
 
-# CharsetPipes
-item.charset.pipe.name=Rura
-tile.charset.shifter.name=Przerzutnik
+item.charset.icon.name=a
 
-# CharsetStorage
-gui.charset.keyring.name=Pęk kluczy
-key.charset.backpackOpen=Otwórz plecak
-item.charset.barrelCart.name=Wagonik z beczką
-item.charset.barrelCart.known.name=Wagonik z beczką: %s
-item.charset.key.name=Kluczyk
-item.charset.keyring.name=Pęk kluczy
-item.charset.lock.name=Kłódka
-item.charset.masterKey.name=Uniwersalny kluczyk
-notice.charset.barrel.empty=Empty
-notice.charset.barrel.full=Full of
-notice.charset.barrel.infinite=Infinite
-notice.charset.barrel.no=No.
-tile.charset.barrel.name=Beczka
-tile.charset.barrel.format=Beczka (%2$s)
-tile.charset.barrel.format2=Beczka %1$s (%2$s)
-tile.charset.barrel.SILKY.name=jedwabna
-tile.charset.barrel.SILKY.silkhint=Użyj jedbawnej siekiery
-tile.charset.barrel.HOPPING.name=lejkowa
-tile.charset.barrel.LARGER.name=powiększona
-tile.charset.barrel.STICKY.name=lepka
-tile.charset.barrel.CREATIVE.name=trybu kreatywnego
+# crafting.cauldron
 
-# CharsetTweaks
+fluid.charset.dyed_water.name=Woda farbowana
+fluid.charset.dyed_water.pure.name=Czysta woda farbowana
+
+notice.charset.cauldron.dye_impure=Musisz użyć czystej wody farbowanej!
+notice.charset.cauldron.no_dye=Nie można zmieszać więcej barwnika!
+notice.charset.cauldron.empty=Pusty
+notice.charset.cauldron.fluid=%2$s, %1$s mB
+
+# crafting.compression
+
+notice.charset.compression.invalid_shape=Nieprawidłowy kształt!
+notice.charset.compression.cannot_craft=Niepowodzenie!
+
+tile.charset.compression_crafter.name=Ciśnieniowy wytwornik
+
+# crafting.pocket
+
+item.charset.pocket_crafting_table.name=Podręczny stół rzemieślniczy
+
+# misc.drama
+
+item.charset.dramaInABottle.name=Drama w butelce
+
+# misc.graphite
+
 item.charset.graphite.name=Grafit
+
+# misc.scaffold
+
+tile.charset.scaffold.name=Rusztowanie
+tile.charset.scaffold.format=Rusztowanie (%s)
+
+# misc.shards
+
 item.charset.shard.colored.name=Kawałek szkła (%s)
 item.charset.shard.name=Kawałek szkła
 
-# CharsetWires
-tile.charset.wire.name=Kabel proszkowy
-tile.charset.wire.insulated.name=Kabel izolowany %s
-tile.charset.wire.bundled.name=Kabel łączony
-tile.charset.wire.freestanding.name=%s wolnostojący
+# optics.laser
 
-# CharsetWrench
-item.charset.wrench.name=Klucz
+tile.charset.beam_torch.name=Wiązkowa pochodnia (%s)
+tile.charset.crystal.name=Kryształ %s
+tile.charset.prism.name=Pryzmat
+tile.charset.reflector.name=Reflektor %s
+tile.charset.splitter.name=Rozdzielacz %s
+
+# optics.projector
+
+tile.charset.projector.name=Projektor
+
+# overhaul.oneDimension
+
+item.charset.gemQuartz.name=Kwarc
+tile.charset.oreQuartz.name=Ruda kwarcu
+
+# storage.barrels
+
+config.charset.storage.barrels.features.name=Toggle Features
+config.charset.storage.barrels.general.name=General
+config.charset.storage.barrels.render.name=Client/Rendering
+
+item.charset.barrelCart.name=Wagonik z beczką
+item.charset.barrelCart.known.name=Wagonik z beczką: %s
+
+notice.charset.barrel.empty=Pusta
+notice.charset.barrel.full=Pełna:
+notice.charset.barrel.infinite=Nieskończona:
+notice.charset.barrel.no=Nie.
+
+tile.charset.barrel.name=Beczka
+tile.charset.barrel.format=(%2$s) Beczka
+tile.charset.barrel.format2=Beczka %1$s (%2$s)
+tile.charset.barrel.SILKY.name=jedwabna
+tile.charset.barrel.SILKY.silkhint=Użyj siekiery o jedwabnym dotyku
+tile.charset.barrel.HOPPING.name=lejkowa
+tile.charset.barrel.STICKY.name=lepka
+tile.charset.barrel.INFINITE.name=nieskończona
+
+# storage.locks
+
+config.charset.storage.locks.general.name=Ogólne
+
+gui.charset.keyring.name=Pęk kluczy
+
+item.charset.key.name=Kluczyk
+item.charset.keyring.name=Pęk kluczy
+item.charset.lock.name=Kłódka
+item.charset.masterKey.name=Kluczyk uniwersalny
+
+# storage.tanks
 
 tile.charset.tank.name=Zbiornik
+tile.charset.tank.colored.name=Zbiornik %s
+tile.charset.tank.creative.name=Zbiornik nieskończony
+
+# tablet
+
+item.charset.tablet.name=Tablet
+
+# transport.rails
+
+tile.charset.rail_cross.name=Tor skrzyżowany
+
+# tweak.carry
+
+config.charset.tweak.carry.general.name=Ogólne
+
+# tweak.chat
+
+chat.charset.shout=%1$s %2$s
+
+# tools.building
+
+item.charset.chisel.name=Chisel
+item.charset.chisel.large.name=Large Chisel
+item.charset.wrench.name=Klucz
+
+# abandoned (but may be returned to)
+
+item.charset.clayBucket.filled.name=%s Clay Bucket
+item.charset.clayBucket.empty.name=Clay Bucket
+item.charset.pipe.name=Rura
+item.charset.poster.name=Plakat
+
+tile.charset.pipe.format=Rura (%s)
+item.charset.pipe.name=Rura
+tile.charset.shelf.name=Półka
+tile.charset.shelf.format=Półka (%s)
+tile.charset.shifter.name=Przerzutnik
