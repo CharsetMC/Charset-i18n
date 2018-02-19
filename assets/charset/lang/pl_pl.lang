@@ -45,7 +45,7 @@ config.charset.lib.expert.name=Ustawienia zaawansowane
 config.charset.lib.functionalityregistry.name=Rejestr funkcjonalności
 config.charset.lib.general.name=Ogólne
 
-gui.charset.crafting.name=Crafting
+gui.charset.crafting.name=Konstruowanie
 
 itemGroup.charset=Projekt Charset
 
@@ -109,9 +109,9 @@ tile.charset.oreQuartz.name=Ruda kwarcu
 
 # storage.barrels
 
-config.charset.storage.barrels.features.name=Toggle Features
-config.charset.storage.barrels.general.name=General
-config.charset.storage.barrels.render.name=Client/Rendering
+config.charset.storage.barrels.features.name=Przełącz funkcje
+config.charset.storage.barrels.general.name=Ogólne
+config.charset.storage.barrels.render.name=Klient/Wyświetlanie
 
 item.charset.barrelCart.name=Wagonik z beczką
 item.charset.barrelCart.known.name=Wagonik z beczką: %s
@@ -165,14 +165,14 @@ chat.charset.shout=%1$s %2$s
 
 # tools.building
 
-item.charset.chisel.name=Chisel
-item.charset.chisel.large.name=Large Chisel
+item.charset.chisel.name=Dłuto
+item.charset.chisel.large.name=Duże dłuto
 item.charset.wrench.name=Klucz
 
 # abandoned (but may be returned to)
 
-item.charset.clayBucket.filled.name=%s Clay Bucket
-item.charset.clayBucket.empty.name=Clay Bucket
+item.charset.clayBucket.filled.name=Gliniane wiadro - %s
+item.charset.clayBucket.empty.name=Gliniane wiadro
 item.charset.pipe.name=Rura
 item.charset.poster.name=Plakat
 
