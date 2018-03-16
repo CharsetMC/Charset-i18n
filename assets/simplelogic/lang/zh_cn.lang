@@ -1,0 +1,15 @@
+itemGroup.simplelogic=简易逻辑
+
+tile.simplelogic.gate.nand.name=与非门
+tile.simplelogic.gate.nand.i.name=与门
+tile.simplelogic.gate.nor.name=或非门
+tile.simplelogic.gate.nor.i.name=或门
+tile.simplelogic.gate.xor.name=异或门
+tile.simplelogic.gate.xor.i.name=同或门
+tile.simplelogic.gate.buffer.name=反相缓冲门
+tile.simplelogic.gate.buffer.i.name=缓冲门
+tile.simplelogic.gate.pulse_former.name=脉冲发生器
+tile.simplelogic.gate.multiplexer.name=数据选择器
+tile.simplelogic.gate.rs_latch.name=RS 锁存器
+tile.simplelogic.gate.randomizer.name=随机器
+tile.simplelogic.gate.synchronizer.name=同步器
