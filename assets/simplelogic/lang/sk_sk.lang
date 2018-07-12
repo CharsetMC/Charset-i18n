@@ -1,0 +1,6 @@
+tile.simplelogic.wire.name=Práškový kábel
+tile.simplelogic.wire.insulated.name=Izolovaný kábel %s
+tile.simplelogic.wire.bundled.name=Zviazaný kábel
+tile.simplelogic.wire.freestanding.name=%s uvoľnený Práškový kábel
+tile.simplelogic.wire.insulated.freestanding.name=%s uvoľnený Izolovaný kábel %s
+tile.simplelogic.wire.bundled.freestanding.name=%s uvoľnený Zviazaný kábel

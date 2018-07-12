@@ -1,0 +1,19 @@
+tile.simplelogic.gate.nand.name=NAND-Schaltung
+tile.simplelogic.gate.nand.i.name=AND-Schaltung
+tile.simplelogic.gate.nor.name=NOR-Schaltung
+tile.simplelogic.gate.nor.i.name=OR-Schaltung
+tile.simplelogic.gate.xor.name=XOR-Schaltung
+tile.simplelogic.gate.xor.i.name=XNOR-Schaltung
+tile.simplelogic.gate.buffer.name=Invertierte Buffer-Schaltung
+tile.simplelogic.gate.buffer.i.name=Buffer-Schaltung
+tile.simplelogic.gate.pulse_former.name=Puls-Former
+tile.simplelogic.gate.multiplexer.name=Multiplexer
+tile.simplelogic.gate.rs_latch.name=RS-Flipflop
+
+tile.simplelogic.wire.name=Redstone-Kabel
+tile.simplelogic.wire.insulated.name=%ses Isoliertes Kabel
+tile.simplelogic.wire.bundled.name=Kabelbündel
+tile.simplelogic.wire.freestanding.name=Frei Stehendes Redstone-Kabel
+tile.simplelogic.wire.insulated.freestanding.name=Frei Stehendes %ses Isoliertes Kabel
+tile.simplelogic.wire.bundled.freestanding.name=Frei Stehendes Kabelbündel
+

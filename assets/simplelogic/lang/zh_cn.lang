@@ -13,3 +13,10 @@ tile.simplelogic.gate.multiplexer.name=数据选择器
 tile.simplelogic.gate.rs_latch.name=RS 锁存器
 tile.simplelogic.gate.randomizer.name=随机器
 tile.simplelogic.gate.synchronizer.name=同步器
+
+tile.simplelogic.wire.name=红石线缆
+tile.simplelogic.wire.insulated.name=%s绝缘线缆
+tile.simplelogic.wire.bundled.name=捆绑线缆
+tile.simplelogic.wire.freestanding.name=免支撑红石线缆
+tile.simplelogic.wire.insulated.freestanding.name=免支撑%s绝缘线缆
+tile.simplelogic.wire.bundled.freestanding.name=免支撑捆绑线缆

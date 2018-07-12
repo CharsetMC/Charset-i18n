@@ -1,0 +1,18 @@
+tile.simplelogic.gate.nand.name=Bramka NAND
+tile.simplelogic.gate.nand.i.name=Bramka AND
+tile.simplelogic.gate.nor.name=Bramka NOR
+tile.simplelogic.gate.nor.i.name=Bramka OR
+tile.simplelogic.gate.xor.name=Bramka XOR
+tile.simplelogic.gate.xor.i.name=Bramka XNOR
+tile.simplelogic.gate.buffer.name=Odwrócona bramka buforu
+tile.simplelogic.gate.buffer.i.name=Bramka buforu
+tile.simplelogic.gate.pulse_former.name=Generator impulsu
+tile.simplelogic.gate.multiplexer.name=Multiplekser
+tile.simplelogic.gate.rs_latch.name=Zatrzask typu RS
+
+tile.simplelogic.wire.name=Kabel proszkowy
+tile.simplelogic.wire.insulated.name=Kabel izolowany %s
+tile.simplelogic.wire.bundled.name=Kabel łączony
+tile.simplelogic.wire.freestanding.name=Kabel proszkowy wolnostojący
+tile.simplelogic.wire.insulated.freestanding.name=Kabel izolowany %s wolnostojący
+tile.simplelogic.wire.bundled.freestanding.name=Kabel łączony wolnostojący
