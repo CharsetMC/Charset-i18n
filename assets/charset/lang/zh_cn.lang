@@ -55,6 +55,10 @@ tile.charset.compression_crafter.name=压缩合成机
 
 item.charset.pocket_crafting_table.name=口袋工作台
 
+# decoration.signs
+
+tile.charset.sign.format=%1$s %2$s
+
 # lib
 
 charset.color.black=黑色
@@ -145,13 +149,14 @@ tile.charset.axle.format=%s转动轴
 tile.charset.gen_creative_mechanical.name=创造模式动力源
 tile.charset.gearbox.name=齿轮箱
 tile.charset.gearbox.format=%s齿轮箱
+tile.charset.hand_crank.name=木曲柄
 tile.charset.socket.name=插座
 
 # power.steam
 
 fluid.charset.steam.name=蒸汽
 
-tile.charset.solar_mirror.format=%s 反射镜
+tile.charset.solar_mirror.format=%s反射镜
 tile.charset.solar_mirror.name=反射镜
 tile.charset.water_boiler.name=开水锅炉
 
@@ -177,6 +182,9 @@ tile.charset.barrel.SILKY.silkhint=使用带精准采集的斧子
 tile.charset.barrel.HOPPING.name=漏式
 tile.charset.barrel.STICKY.name=粘性
 tile.charset.barrel.INFINITE.name=无限
+
+# storage.chests
+tile.charset.chest.format=%1$s%2$s
 
 # storage.locks
 
